@@ -14,6 +14,7 @@ Of course, not everything comes to good side. The biggest challenge to run paral
 
 ![request an account on HPC page](CreatAccount.png)
 
+
 2. After creating your account, log in to the [HPC portal](https://ondemand.hpc.engr.oregonstate.edu/). It is performed by the OnDemand interface. You will be prompted to enter your account and passwords.
 ![Log in to On Demand portal](HPC-login.png)
 
@@ -21,6 +22,7 @@ Of course, not everything comes to good side. The biggest challenge to run paral
 1. Once you log into OnDemand portal, you will see the home page. On the top of the page, click the **Files** and then **Home Directory**. You will see all directories associated with your account.
 
 ![Home page of OnDemand portal](OnDemand_home.png)
+
 
 2. In your home directory, click the **hpc-share** folder. This folder will be your working folder, where all scripts and data are stored.
 
@@ -30,6 +32,7 @@ Of course, not everything comes to good side. The biggest challenge to run paral
 1. To stay well-organized, it is recommended to create a folder for your specific project. Click the **New Directory** button to create a folder for your project.
 
 ![Create a working folder for your project](NewDirectory.png)
+
 
 2. Now, you can click the **Upload** button to upload all your R scripts, data, and bash scripts (.sh). Humm...what is a bash script? Bash script is a script that tells the cluster what to do with your code, including what program you are running, and how many memories and cores you are requesting. Check out the example bash script I provided in this repository.
 
@@ -46,10 +49,17 @@ Of course, not everything comes to good side. The biggest challenge to run paral
 
 ![Compose Job](CreatJob.png)
 
+
 2. Hit the **New Job** button and select **From Specific Path**
 
 ![Choose specific path to create a job](ComposeJob.png)
 
-3. In the job composer, type in the path in the **Source Path**, where all your data, R script, and bash script are stored. Below, type in the name of the bash script (ends with `.sh`) in the **Script Name**.
+
+3. In the job composer, type in the path in the **Source Path**, where all your data, R script, and bash script are stored. Below, type in the name of the bash script (ends with `.sh`) in the **Script Name**. Finally, click **Save**.
 
 ![Job specification](Jobpath.png)
+
+
+4. You will be redirected to the job composer page. Here, double-check with the bash script whether it is correctly printed. If everything looks great, hit the **submit** button. Your script should show **running** or **queued**.
+
+![Submit a job](SubmitJob.png)
