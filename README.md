@@ -21,3 +21,16 @@ Of course, not everything comes to good side. The biggest challenge to run paral
 1. Once you log into OnDemand portal, you will see the home page. On the top of the page, click the **Files** and then **Home Directory**. You will see all directories associated with your account.
 
 ![Home page of OnDemand portal](OnDemand_home.png)
+
+2. In your home directory, click the **hpc-share** folder. This folder will be your working folder, where all scripts and data are stored.
+
+![hpc-sharee folder](hpc_location.png)
+
+## Create Folder & Upload files
+1. To stay well-organized, it is recommended to create a folder for your specific project. Click the **New Directory** button to create a folder for your project.
+
+![Create a working folder for your project](NewDirectory.png)
+
+2. Now, you can click the **Upload** button to upload all your R scripts, data, and shell scripts (.sh).
+
+![Upload files](UploadFile.png)
