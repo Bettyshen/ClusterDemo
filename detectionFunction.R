@@ -1,5 +1,5 @@
 #' ---
-#' title: "Scrubjay"
+#' title: "Scrubjay, Robin, Song Sparrow - Detection Function"
 #' author: "Betty Shen"
 #' date: "2024-05-5"
 #' output: html_document
