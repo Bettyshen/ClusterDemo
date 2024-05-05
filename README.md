@@ -13,8 +13,8 @@ Of course, not everything comes to good side. The biggest challenge to run paral
 1. Since we are not College of Engineering students, we need to request an account from [HPC administration](https://it.engineering.oregonstate.edu/hpc).
 
 ![request an account on HPC page](CreatAccount.png)
-
-
+>
+>
 2. After creating your account, log in to the [HPC portal](https://ondemand.hpc.engr.oregonstate.edu/). It is performed by the OnDemand interface. You will be prompted to enter your account and passwords.
 ![Log in to On Demand portal](HPC-login.png)
 
