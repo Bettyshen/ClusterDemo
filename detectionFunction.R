@@ -58,7 +58,7 @@ species_list <- unique(corvallis.all$Common_Name)
 # Calculate available cores we have
 num_cores <- detectCores()
 cl <- makeCluster(num_cores)
-# Export the fit.hn.uni.haz function and other required libraries
+# Export the data and other required libraries
 clusterExport(cl, c("corvallis.all", "species_list", "conversion"))
 
 # You might need to export additional libraries and data depending on their usage in fit.hn.uni.haz
@@ -68,7 +68,6 @@ fit_and_plot_species <- function(species_name) {
   library(parallel)
   library(mrds)
   library(Distance)
-  library(knitr)
   
     # Run the function as before
     model <-  ds(corvallis.all[corvallis.all$Common_Name == species_name,], key = "hn", adjustment = NULL, convert_units = conversion)
