@@ -31,6 +31,10 @@ Of course, not everything comes to good side. The biggest challenge to run paral
 
 ![Create a working folder for your project](NewDirectory.png)
 
-2. Now, you can click the **Upload** button to upload all your R scripts, data, and shell scripts (.sh).
+2. Now, you can click the **Upload** button to upload all your R scripts, data, and bash scripts (.sh).
 
 ![Upload files](UploadFile.png)
+
+>[!NOTE}
+> In this tutorial, R script, bird data, and bash script are provided. Please check out those files in this repository.
+> [R link] (detectionFunction.R)
