@@ -18,7 +18,7 @@ Of course, not everything comes to good side. The biggest challenge to run paral
 2. After creating your account, log in to the [HPC portal](https://ondemand.hpc.engr.oregonstate.edu/). It is performed by the OnDemand interface. You will be prompted to enter your account and passwords.
 ![Log in to On Demand portal](HPC-login.png)
 <br>
-<be>
+<br>
 
 ## OnDemand Portal
 1. Once you log into OnDemand portal, you will see the home page. On the top of the page, click the **Files** and then **Home Directory**. You will see all directories associated with your account.
@@ -31,7 +31,7 @@ Of course, not everything comes to good side. The biggest challenge to run paral
 
 ![hpc-sharee folder](hpc_location.png)
 <br>
-<be>
+<br>
 
 ## Create Folder & Upload files
 1. To stay well-organized, it is recommended to create a folder for your specific project. Click the **New Directory** button to create a folder for your project.
