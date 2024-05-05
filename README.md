@@ -31,9 +31,18 @@ Of course, not everything comes to good side. The biggest challenge to run paral
 
 ![Create a working folder for your project](NewDirectory.png)
 
-2. Now, you can click the **Upload** button to upload all your R scripts, data, and bash scripts (.sh).
+2. Now, you can click the **Upload** button to upload all your R scripts, data, and bash scripts (.sh). Humm...what is a bash script? Bash script is a script that tells the cluster what to do with your code, including what program you are running, and how many memories and cores you are requesting. Check out the example bash script I provided in this repository.
 
 ![Upload files](UploadFile.png)
 
 >[!NOTE]
 > In this tutorial, R script (detectionFunction.R), bird data (multiSP_Data.csv), and bash script (detectionFunction.sh) are provided. Please check out those files in this repository.
+>[!IMPORTANT]
+> Please make sure your R script has all correct paths to the directory that links to OnDemand portal since all your data is stored here. You will no longer access files on your local computer.
+
+## Create & Submit Job
+1. To create a job that runs your script, click **Jobs** and then **Job Composer**. It will take you to the next page to let you point out which bash script to run your code.
+
+![Compose Job](CreatJob.png)
+
+2. Hit the **New Job** button and select **From Specific Path**
