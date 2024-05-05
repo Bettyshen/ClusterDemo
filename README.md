@@ -50,6 +50,6 @@ Of course, not everything comes to good side. The biggest challenge to run paral
 
 ![Choose specific path to create a job](ComposeJob.png)
 
-3. In the job composer, type in the path in the **Source Path**, where all your data, R script, and bash script are stored. Below, type in the name of the bash script in the **Script Name**.
+3. In the job composer, type in the path in the **Source Path**, where all your data, R script, and bash script are stored. Below, type in the name of the bash script (ends with `.sh`) in the **Script Name**.
 
 ![Job specification](Jobpath.png)
