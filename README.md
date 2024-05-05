@@ -37,6 +37,7 @@ Of course, not everything comes to good side. The biggest challenge to run paral
 
 >[!NOTE]
 > In this tutorial, R script (detectionFunction.R), bird data (multiSP_Data.csv), and bash script (detectionFunction.sh) are provided. Please check out those files in this repository.
+
 >[!IMPORTANT]
 > Please make sure your R script has all correct paths to the directory that links to OnDemand portal since all your data is stored here. You will no longer access files on your local computer.
 
