@@ -35,6 +35,6 @@ Of course, not everything comes to good side. The biggest challenge to run paral
 
 ![Upload files](UploadFile.png)
 
->[!NOTE}
+>[!NOTE]
 > In this tutorial, R script, bird data, and bash script are provided. Please check out those files in this repository.
 > [R link] (detectionFunction.R)
