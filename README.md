@@ -12,4 +12,4 @@ Of course, not everything comes to good side. The biggest challenge to run paral
 ## Create COE HPC Account
 Since we are not College of Engineering students, we need to request an account from [HPC administration](https://it.engineering.oregonstate.edu/hpc).
 
-![request an account on HPC page](CreatAccount.png)
+* ![request an account on HPC page](CreatAccount.png)
