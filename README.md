@@ -10,9 +10,9 @@ Of course, not everything comes to good side. The biggest challenge to run paral
 
 # Instructions
 ## Create COE HPC Account
-Since we are not College of Engineering students, we need to request an account from [HPC administration](https://it.engineering.oregonstate.edu/hpc).
+1. Since we are not College of Engineering students, we need to request an account from [HPC administration](https://it.engineering.oregonstate.edu/hpc).
 
 * ![request an account on HPC page](CreatAccount.png)
 
-After your account is created, log in to the [HPC portal](https://ondemand.hpc.engr.oregonstate.edu/). It is performed by the OnDemand interface. You will be prompted to enter your account and passwords.
+2. After your account is created, log in to the [HPC portal](https://ondemand.hpc.engr.oregonstate.edu/). It is performed by the OnDemand interface. You will be prompted to enter your account and passwords.
 ![Log in to On Demand portal](HPC-login.png)
