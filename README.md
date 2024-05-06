@@ -49,7 +49,14 @@ Of course, not everything comes to good side. The biggest challenge to run paral
 > In this tutorial, R script (detectionFunction.R), bird data (multiSP_Data.csv), and bash script (detectionFunction.sh) are provided. Please check out those files in this repository.
 
 >[!IMPORTANT]
-> Please make sure your R script has all correct paths to the directory that links to OnDemand portal since all your data is stored here. You will no longer access files on your local computer.
+> Please make sure your R script has all correct paths to the directory that links to OnDemand portal since all your data is stored here. You will no longer access files on your local computer. Please see the section below which indicates specific path that needs to change.
+<br>
+### Change Directory Path in R Script
+You will have to change the following path: setting working directory, data path, and PNG export path.
+![Change setting working directory path](pathChange.png)
+![Change exporting PNG file path](pathChange2.png)
+<br>
+<br>
 
 ## Create & Submit Job
 1. To create a job that runs your script, click **Jobs** and then **Job Composer**. It will take you to the next page to let you point out which bash script to run your code.
