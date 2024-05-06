@@ -55,8 +55,10 @@ Of course, not everything comes to good side. The biggest challenge to run paral
 ### Change Directory Path in R Script
 You will have to change the following paths to your path that links your directory: setting working directory, data path, and PNG export path.
 <br>
+* Change working directory path & the path to read bird data
 ![Change setting working directory path](pathChange.png)
 <br>
+* Change path to export PNG file
 ![Change exporting PNG file path](pathChange2.png)
 <br>
 <br>
