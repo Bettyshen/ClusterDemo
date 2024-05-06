@@ -51,6 +51,7 @@ Of course, not everything comes to good side. The biggest challenge to run paral
 >[!IMPORTANT]
 > Please make sure your R script has all correct paths to the directory that links to OnDemand portal since all your data is stored here. You will no longer access files on your local computer. Please see the section below which indicates specific path that needs to change.
 <br>
+
 ### Change Directory Path in R Script
 You will have to change the following path: setting working directory, data path, and PNG export path.
 ![Change setting working directory path](pathChange.png)
