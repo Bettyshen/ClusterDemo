@@ -56,6 +56,7 @@ Of course, not everything comes to good side. The biggest challenge to run paral
 You will have to change the following paths to your path that links your directory: setting working directory, data path, and PNG export path.
 <br>
 ![Change setting working directory path](pathChange.png)
+<br>
 ![Change exporting PNG file path](pathChange2.png)
 <br>
 <br>
